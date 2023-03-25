@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/piramidonwitch/draggable-items-app.git/static/css/main.e0cc27dc.css",
+    "main.js": "/piramidonwitch/draggable-items-app.git/static/js/main.4dfaf3ab.js",
+    "index.html": "/piramidonwitch/draggable-items-app.git/index.html",
+    "main.e0cc27dc.css.map": "/piramidonwitch/draggable-items-app.git/static/css/main.e0cc27dc.css.map",
+    "main.4dfaf3ab.js.map": "/piramidonwitch/draggable-items-app.git/static/js/main.4dfaf3ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0cc27dc.css",
+    "static/js/main.4dfaf3ab.js"
+  ]
+}
