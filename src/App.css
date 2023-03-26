@@ -25,9 +25,7 @@ input {
   width: 100px;
   height: 30px;
   background: none;
-  border: 1px solid whitesmoke;
-  
-  
+  border: 1px solid whitesmoke;  
   color: whitesmoke;
   font-size: 12px;
 }
@@ -40,8 +38,7 @@ input {
 .todo__item {
   min-width: 250px;
   color: rgb(0, 0, 0);
-  position: fixed;
-  
+  position: absolute;
   cursor: move;
   padding: 1em;
   border-radius: 5px;
